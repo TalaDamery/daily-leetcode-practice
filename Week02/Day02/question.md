@@ -1,7 +1,7 @@
-# Day 01 - Longest Palindrome
+# Day 02 - Find Numbers with Even Number of Digits
 
 ##  Question Link:
-[Longest Palindrome - LeetCode](https://leetcode.com/problems/longest-palindrome/?envType=problem-list-v2&envId=string)
+[Find Numbers with Even Number of Digits - LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1622299873/?envType=daily-question&envId=2025-04-30)
 
 
 
